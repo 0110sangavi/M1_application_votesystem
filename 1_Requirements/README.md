@@ -44,8 +44,7 @@ In general, two main types of e-voting can be identified:-
 e-voting which is physically supervised by representatives of governmental or independent electoral authorities (e.g. electronic voting machines located at polling stations);
 remote e-voting via the Internet (also called i-voting) where the voter submits his or her vote electronically to the election authorities, from any location.
 
-SWOT Analysis-
-STRENGTH OF ONLINE VOTING
+SWOT Analysis- STRENGTH OF ONLINE VOTING:-
 1.Reduce cost of voting  
 2. Voting in any language convenient to the voter 
 3. Tackling social, technical, political, legal and economic issues associated with elections. 
@@ -55,5 +54,6 @@ STRENGTH OF ONLINE VOTING
 7. Input to political decision-making can be improved with mobile voting, thereby increasing their democratic participation.  
 8. Electronic voting eliminates queue during voters’ registration and voting. 
 9. Voter has no geographical restricted from voting. 
-WEAKNESS OF ONLINE VOTING
+
+WEAKNESS OF ONLINE VOTING:-
 The  weakness  to the  integration and  total deployment of  online  technology in  voting  begins from awareness, policy and technology. Different countries of the world have different views of mobile technology when in relation with voting. The civilized and developed countries have what it takes to deploy mobile voting in their electoral systems technologically, while the developing and the underdeveloped countries have lots to put in place to fully deploy online technology in voting.
