@@ -75,17 +75,3 @@ c.If the user chooses 3, the name of the candidate with the maximum number of vo
 
 DETAIL REQUIRMENTS-
 High Level Requirements:-
-+--+--+--+--+--+
-| ID             | Description               |  Status (Implemented/Future)  |
-+--+--+--+--+--+
-|Authorize Actor | Provide access to         |   Implemented                 |
-                   the system
-                   functions that the actor
-                   is 
-                  authorised to perform. 
-| Manage Election | Create, view and        |  Future                        |
-                    modify different sets 
-                    of election districts 
-                    for one or more election 
-                    procedures.
-  Districts       |
