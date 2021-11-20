@@ -75,6 +75,5 @@ c.If the user chooses 3, the name of the candidate with the maximum number of vo
 
 DETAIL REQUIRMENTS-
 High Level Requirements:-
-[table.md](https://github.com/0110sangavi/M1_application_votesystem/files/7574602/table.md)
-
+Refer to table.md file
 
