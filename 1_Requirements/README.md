@@ -57,3 +57,35 @@ SWOT Analysis- STRENGTH OF ONLINE VOTING:-
 
 WEAKNESS OF ONLINE VOTING:-
 The  weakness  to the  integration and  total deployment of  online  technology in  voting  begins from awareness, policy and technology. Different countries of the world have different views of mobile technology when in relation with voting. The civilized and developed countries have what it takes to deploy mobile voting in their electoral systems technologically, while the developing and the underdeveloped countries have lots to put in place to fully deploy online technology in voting.
+
+4W's and 1'H
+Who: online voting system that facilitates user(voter), candidate and administrator (who will be in charge and will verify all the user and information) to participate in online voting. 
+What: Benefits. Electronic voting technology intends to speed the counting of ballots, reduce the cost of paying staff to count votes manually and can provide improved accessibility for disabled voters. Also in the long term, expenses are expected to decrease. Results can be reported and published faster.
+When: Project Deadline- November 25th 2021
+Where: Using Visual Studio Code, the project is implemented.
+How: Procedure for how to implement the project-
+1.Vote for your favorite Candidate.
+2.Check the number of votes of each Candidate.
+3.Check the candidate who is leading and then Exit.
+4.The user chooses one of the options.
+a.If the user chooses 1, then the list of candidates is displayed and the user can now choose from this list of candidates.
+b.If the user chooses 2, then the list of candidates along with their current number of votes is displayed.
+c.If the user chooses 3, the name of the candidate with the maximum number of votes is displayed. d.If there is more than one candidate with maximum votes, display an error message stating “No winner”.
+5.This program continues until the user chooses 0 to exit().
+
+DETAIL REQUIRMENTS-
+High Level Requirements:-
++--+--+--+--+--+
+| ID             | Description               |  Status (Implemented/Future)  |
++--+--+--+--+--+
+|Authorize Actor | Provide access to         |   Implemented                 |
+                   the system
+                   functions that the actor
+                   is 
+                  authorised to perform. 
+| Manage Election | Create, view and        |  Future                        |
+                    modify different sets 
+                    of election districts 
+                    for one or more election 
+                    procedures.
+  Districts       |
