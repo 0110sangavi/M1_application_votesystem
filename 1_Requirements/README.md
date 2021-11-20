@@ -74,6 +74,6 @@ c.If the user chooses 3, the name of the candidate with the maximum number of vo
 5.This program continues until the user chooses 0 to exit().
 
 DETAIL REQUIRMENTS-
-High Level Requirements:-
+High Level Requirements and Low Level Requirements;-
 Refer to table.md file
 
