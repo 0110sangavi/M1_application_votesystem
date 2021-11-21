@@ -1,6 +1,4 @@
 Design
-High Level Design
-refer to pic.md file
+High Level Design- Structural and Behaviourial 
+Low Level Design-Structural and Behaviourial 
 
-Low Level Design
--refer to pic2.md file
