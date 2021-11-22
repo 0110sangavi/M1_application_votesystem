@@ -86,7 +86,7 @@ Low Level Requirements:-
 |     ID          |                   Description                          |         Status (Implemented/Future)     |
 | -------------   |                  -------------                         |         -------------                   |
 | Implement-      |
-   other platforms|Provide access to the system functions that the actor is|      Implemented                        |
-                    authorised to perform.
+   other platforms|Can run in other OS like Unix Linux Ubuntu              |          Future                         |
+                  
 
 
