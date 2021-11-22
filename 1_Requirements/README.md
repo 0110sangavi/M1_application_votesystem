@@ -85,8 +85,8 @@ Low Level Requirements:-
 
 |     ID          |                   Description                          |         Status (Implemented/Future)     |
 | -------------   |                  -------------                         |         -------------                   |
-| Implement-
-   other platforms |Provide access to the system functions that the actor is|      Implemented                       |
+| Implement-      |
+   other platforms|Provide access to the system functions that the actor is|      Implemented                        |
                     authorised to perform.
 
 
