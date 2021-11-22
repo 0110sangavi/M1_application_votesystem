@@ -1,7 +1,13 @@
 Requirements
 
 Introduction-
-The Test Plan outlines the scope, approach, resources, and schedule of all testing activities. It identifies the items and features to be tested; types of testing. Online e-voting system needs to be tested with all the features. It lists the tests for Version 1.0.
+An online voting system is a software platform that allows groups to securely conduct votes and elections. High-quality online voting systems balance ballot security, accessibility, and the overall requirements of an organization's voting event.
+At their core, online voting systems protect the integrity of your vote by preventing voters from being able to vote multiple times. As a digital platform, they eliminate the need to gather in-person, cast votes using paper, or by any other means (e.g. email, insecure survey software). 
+You may hear an online voting system being referred to as an online election system, an online e voting system, or electronic voting. These all make reference to the same thing: a secure voting tool that allows your group to collect input from your group and closely scrutinize the results in real time.
+
+![alt text](https://user-images.githubusercontent.com/94214076/142881227-45e83cf9-f096-4359-81bf-587db62b93d9.jpg)
+
+
 
 Research-
 The framework used of structuring, planning and controlling the process in developing information system in software engineering is known as Software development methodology or System development methodology. (www.itinfo.am, 2014) [14]. The events completed at each step of a software development project is describes by a framework Software development life cycle (SLDC). (slideshare.net, 2014) [15].
@@ -44,6 +50,10 @@ In general, two main types of e-voting can be identified:-
 e-voting which is physically supervised by representatives of governmental or independent electoral authorities (e.g. electronic voting machines located at polling stations);
 remote e-voting via the Internet (also called i-voting) where the voter submits his or her vote electronically to the election authorities, from any location.
 
+![alt text](https://user-images.githubusercontent.com/94214076/142882242-e5d19666-5122-4e3a-bc67-6202df1a17f2.png)
+
+
+
 SWOT Analysis- STRENGTH OF ONLINE VOTING:-
 1.Reduce cost of voting  
 2. Voting in any language convenient to the voter 
@@ -58,11 +68,16 @@ SWOT Analysis- STRENGTH OF ONLINE VOTING:-
 WEAKNESS OF ONLINE VOTING:-
 The  weakness  to the  integration and  total deployment of  online  technology in  voting  begins from awareness, policy and technology. Different countries of the world have different views of mobile technology when in relation with voting. The civilized and developed countries have what it takes to deploy mobile voting in their electoral systems technologically, while the developing and the underdeveloped countries have lots to put in place to fully deploy online technology in voting.
 
+![alt text](https://user-images.githubusercontent.com/94214076/142879748-6dc35ebb-37da-4f1a-83e9-d25757e95aa1.png)
+
 4W's and 1'H
 Who: online voting system that facilitates user(voter), candidate and administrator (who will be in charge and will verify all the user and information) to participate in online voting. 
 What: Benefits. Electronic voting technology intends to speed the counting of ballots, reduce the cost of paying staff to count votes manually and can provide improved accessibility for disabled voters. Also in the long term, expenses are expected to decrease. Results can be reported and published faster.
-When: Project Deadline- November 25th 2021
-Where: Using Visual Studio Code, the project is implemented.
+
+When: 16 October 2005
+
+Where: voters in Estonia was the first country to introduce online voting system
+
 How: Procedure for how to implement the project-
 1.Vote for your favorite Candidate.
 2.Check the number of votes of each Candidate.
