@@ -80,10 +80,13 @@ High Level Requirements:-
 | -------------   |                  -------------                         |         -------------                   |
 | Authorize Actor |Provide access to the system functions that the actor is|      Implemented                        |
                   authorised to perform.
+                  
+Low Level Requirements:-
 
-| Manage Election |
-         Districts|Create, view and modify different sets of election      |                                          |
-                   districts                                               |                                          |
-                  | for one or more election procedures.                   |                                          |
-                                                                            |
+|     ID          |                   Description                          |         Status (Implemented/Future)     |
+| -------------   |                  -------------                         |         -------------                   |
+| Implement-
+   other platforms |Provide access to the system functions that the actor is|      Implemented                       |
+                    authorised to perform.
+
 
