@@ -8,3 +8,7 @@ B. Behaviorial Design-
 
 Low Level Design-
 A. Structural Design- 
+![alt text](https://user-images.githubusercontent.com/94214076/142846130-251e077a-4ef6-40c2-9a69-971a96a2771c.png)
+
+B. Behviorial Design-
+![alt text](https://user-images.githubusercontent.com/94214076/142846478-9a51d5ca-fbf5-4d8b-8ad3-6945df3d9fb0.png)
