@@ -75,5 +75,9 @@ c.If the user chooses 3, the name of the candidate with the maximum number of vo
 
 DETAIL REQUIRMENTS-
 High Level Requirements and Low Level Requirements;-
-Refer to table.md file
+
+|     ID          | Description  |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
