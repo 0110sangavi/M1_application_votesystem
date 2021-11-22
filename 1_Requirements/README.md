@@ -74,10 +74,16 @@ c.If the user chooses 3, the name of the candidate with the maximum number of vo
 5.This program continues until the user chooses 0 to exit().
 
 DETAIL REQUIRMENTS-
-High Level Requirements and Low Level Requirements;-
+High Level Requirements:-
 
-|     ID          | Description  |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|     ID          |                   Description                          |         Status (Implemented/Future)     |
+| -------------   |                  -------------                         |         -------------                   |
+| Authorize Actor |Provide access to the system functions that the actor is|      Implemented                        |
+                  authorised to perform.
+
+| Manage Election |
+         Districts|Create, view and modify different sets of election      |                                          |
+                   districts                                               |                                          |
+                  | for one or more election procedures.                   |                                          |
+                                                                            |
 
