@@ -54,7 +54,8 @@ remote e-voting via the Internet (also called i-voting) where the voter submits 
 
 
 
-## SWOT Analysis- STRENGTH OF ONLINE VOTING:-
+## SWOT Analysis- 
+## STRENGTH OF ONLINE VOTING:-
 1.Reduce cost of voting  
 2. Voting in any language convenient to the voter 
 3. Tackling social, technical, political, legal and economic issues associated with elections. 
@@ -67,6 +68,25 @@ remote e-voting via the Internet (also called i-voting) where the voter submits 
 
 ## WEAKNESS OF ONLINE VOTING:-
 The  weakness  to the  integration and  total deployment of  online  technology in  voting  begins from awareness, policy and technology. Different countries of the world have different views of mobile technology when in relation with voting. The civilized and developed countries have what it takes to deploy mobile voting in their electoral systems technologically, while the developing and the underdeveloped countries have lots to put in place to fully deploy online technology in voting.
+
+## OPPORTUNITIES OF ONLINE VOTING:-
+1.It can install a process to enable people with disabilities to vote by themselves, easily and in secrecy.
+2.E-voting via Internet encourages more voters to cast their vote remotely and increases the likelihood of higher voter turnout for a mobile electorate.
+3.E-voting via Internet allows voters to cast their vote in an electoral district other than the one where they are registered and facilitates the polling process for citizens formerly voting by mail.
+4.Over time it reduces the overall cost to operate and manage the election process.
+5.Contributes to a faster vote counting and delivery of the final election results.
+6.Unauthorised intervention of third parties in the voting process. Given the current state of information technology, there is no guarantee, that a programme would not be manipulated to allow the storage and printing of a form or document different from the one appearing on the screen.
+7.More difficult to detect and identify the source of errors and technical malfunctions than with conventional procedures.
+8.Possibility that fully digitised system would fail to produce results and lack physical back-up records, making a public recount difficult or impossible.
+
+## THREATS OF ONLINE VOTING:-
+
+* Risk related to security (computer viruses/hacker) that could compromise an election and public confidence.
+* Problems with access to the Internet through the digital divide based on socio-economic variables and between rural and urban areas.
+* Greater opportunity for fraud or coercion, potentially violating ballot integrity.
+* Issue of voter education: time and money must be invested to ensure public is aware that electronic/Internet voting is an option.
+* Privatization – contracting elections out to private companies to run electronic operations leads to negative implications.
+* Threat of disintegration of social capital or civic life.
 
 ![alt text](https://user-images.githubusercontent.com/94214076/142879748-6dc35ebb-37da-4f1a-83e9-d25757e95aa1.png)
 
