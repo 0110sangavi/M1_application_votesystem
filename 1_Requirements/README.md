@@ -122,15 +122,14 @@ c.If the user chooses 3, the name of the candidate with the maximum number of vo
 
 |     ID          |                   Description                          |         Status (Implemented/Future)     |
 | -------------   |                  -------------                         |         -------------                   |
-| Authorize Actor |Provide access to the system functions that the actor is|      Implemented                        |
-                  authorised to perform.
-                  
+| HLR_1           |    Create Candidate Files                              |       Implemented                       |
+| HLR_2           |    Delete Illegal Votes                                |       Implemented                       |
+
+
 # Low Level Requirements:-
 
 |     ID          |                   Description                          |         Status (Implemented/Future)     |
 | -------------   |                  -------------                         |         -------------                   |
-| Implement-      |
-   other platforms|Can run in other OS like Unix Linux Ubuntu              |          Future                         |
-                  
-
-
+| LLR_1           |          List of Tasks / Operations is displayed.      |        Implemented                      |
+| LLR_2           |          Input from the user                           |        Implemented                      |
+| LLR_3           |          Exit Program                                  |        Implemented                      |
