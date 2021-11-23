@@ -5,7 +5,8 @@ An online voting system is a software platform that allows groups to securely co
 At their core, online voting systems protect the integrity of your vote by preventing voters from being able to vote multiple times. As a digital platform, they eliminate the need to gather in-person, cast votes using paper, or by any other means (e.g. email, insecure survey software). 
 You may hear an online voting system being referred to as an online election system, an online e voting system, or electronic voting. These all make reference to the same thing: a secure voting tool that allows your group to collect input from your group and closely scrutinize the results in real time.
 
-![alt text](https://user-images.githubusercontent.com/94214076/142881227-45e83cf9-f096-4359-81bf-587db62b93d9.jpg)
+![alt text](https://user-images.githubusercontent.com/94214076/142973240-150ea8b8-7b84-4278-995d-2881721e9f58.png)
+
 
 
 
@@ -72,11 +73,16 @@ The  weakness  to the  integration and  total deployment of  online  technology 
 
 4W's and 1'H
 Who: online voting system that facilitates user(voter), candidate and administrator (who will be in charge and will verify all the user and information) to participate in online voting. 
+
 What: Benefits. Electronic voting technology intends to speed the counting of ballots, reduce the cost of paying staff to count votes manually and can provide improved accessibility for disabled voters. Also in the long term, expenses are expected to decrease. Results can be reported and published faster.
+
+![alt text](https://user-images.githubusercontent.com/94214076/142972681-77f7b234-a406-47f2-95dd-cb823a5450a9.jpg)
 
 When: 16 October 2005
 
 Where: voters in Estonia was the first country to introduce online voting system
+
+![alt text](https://user-images.githubusercontent.com/94214076/142972804-5774010a-2399-41e5-bcbd-19714aff91cb.png)
 
 How: Procedure for how to implement the project-
 1.Vote for your favorite Candidate.
