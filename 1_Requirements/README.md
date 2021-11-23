@@ -72,15 +72,19 @@ The  weakness  to the  integration and  total deployment of  online  technology 
 ![alt text](https://user-images.githubusercontent.com/94214076/142879748-6dc35ebb-37da-4f1a-83e9-d25757e95aa1.png)
 
 ## 4W's and 1'H
-# Who: online voting system that facilitates user(voter), candidate and administrator (who will be in charge and will verify all the user and information) to participate in online voting. 
+# Who:
+online voting system that facilitates user(voter), candidate and administrator (who will be in charge and will verify all the user and information) to participate in online voting. 
 
-# What: Benefits. Electronic voting technology intends to speed the counting of ballots, reduce the cost of paying staff to count votes manually and can provide improved accessibility for disabled voters. Also in the long term, expenses are expected to decrease. Results can be reported and published faster.
+# What: 
+Benefits. Electronic voting technology intends to speed the counting of ballots, reduce the cost of paying staff to count votes manually and can provide improved accessibility for disabled voters. Also in the long term, expenses are expected to decrease. Results can be reported and published faster.
 
 ![alt text](https://user-images.githubusercontent.com/94214076/142972681-77f7b234-a406-47f2-95dd-cb823a5450a9.jpg)
 
-# When: 16 October 2005
+# When: 
+16 October 2005
 
-# Where: voters in Estonia was the first country to introduce online voting system
+# Where: 
+voters in Estonia was the first country to introduce online voting system
 
 ![alt text](https://user-images.githubusercontent.com/94214076/142972804-5774010a-2399-41e5-bcbd-19714aff91cb.png)
 
