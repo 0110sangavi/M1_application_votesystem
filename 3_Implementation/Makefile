@@ -5,7 +5,7 @@ PROJECT_NAME = Voting_System
 BUILD = build
 
 # All source code files
-SRC = MAIN.C
+SRC = src/MAIN.C
 
 # All test source files
 TEST_SRC = test/test_vote_system.c\
