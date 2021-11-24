@@ -6,8 +6,8 @@ You may hear an online voting system being referred to as an online election sys
 
 ![alt text](https://user-images.githubusercontent.com/94214076/142973240-150ea8b8-7b84-4278-995d-2881721e9f58.png)
 
-
-
+## State of Art
+![alt text](https://user-images.githubusercontent.com/94214076/143175028-eb83689b-09ea-4ed9-93ac-7945bb990868.jpeg)
 
 ## Research-
 The framework used of structuring, planning and controlling the process in developing information system in software engineering is known as Software development methodology or System development methodology. (www.itinfo.am, 2014) [14]. The events completed at each step of a software development project is describes by a framework Software development life cycle (SLDC). (slideshare.net, 2014) [15].
