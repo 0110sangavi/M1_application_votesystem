@@ -13,3 +13,5 @@
 To execute the tests, run this from the terminal.
 
 ` gcc.exe .\test\test_vote_system.c .\unity\unity.c -Iinc -Iunity -o test.exe`
+
+`C:\Users\Sangavi R\Documents\MiniVoteSystem\voting\M1_application_votesystem`
