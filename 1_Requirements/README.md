@@ -4,7 +4,8 @@ An online voting system is a software platform that allows groups to securely co
 At their core, online voting systems protect the integrity of your vote by preventing voters from being able to vote multiple times. As a digital platform, they eliminate the need to gather in-person, cast votes using paper, or by any other means (e.g. email, insecure survey software). 
 You may hear an online voting system being referred to as an online election system, an online e voting system, or electronic voting. These all make reference to the same thing: a secure voting tool that allows your group to collect input from your group and closely scrutinize the results in real time.
 
-![alt text](https://user-images.githubusercontent.com/94214076/142973240-150ea8b8-7b84-4278-995d-2881721e9f58.png)
+![alt text](https://user-images.githubusercontent.com/94214076/143216438-bf2c43c5-1a29-4bf5-b7c6-1833d8701810.jpg)
+
 
 ## State of Art-
 ![alt text](https://user-images.githubusercontent.com/94214076/143175028-eb83689b-09ea-4ed9-93ac-7945bb990868.jpeg)
