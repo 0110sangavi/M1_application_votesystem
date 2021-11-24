@@ -11,7 +11,6 @@ HEADER	= ELECTION.H
 OUT	= MAIN.C
 CC	 = gcc
 FLAGS	 = -g -c
-LFLAGS	 = 
 
 #To check if the OS is Windows or Linux and set the executable file extension and delete command accordingly
 all: $(OBJS)
