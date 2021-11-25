@@ -26,3 +26,7 @@ These systems can speed up election results and lower the cost of conducting an 
 ## Manual
 
 Refer Implementation Folder For Manual
+
+## GIF of The Project
+
+![Alt Text](https://user-images.githubusercontent.com/94214076/143402500-fb2f29db-30ad-4c04-bb6c-eef194c690f3.gif)
