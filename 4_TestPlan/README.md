@@ -2,11 +2,11 @@
 # Table no: High level test plan-
 
 
-|   Test ID     |  Description  | Exp I/P  | Exp O/P   | Actual O/P |  Type of Test |
-| ------------- | ------------- | -------  | -------   | ---------- |  ------------ |
-| H_01          | _________     |          |           |            |               |
-| H_02          | ____________  |          |           |            |               |
-| H_03          | ______________|          |           |            |               |
+|   Test ID     |  Description             | Exp I/P  | Exp O/P   | Actual O/P |  Type of Test |
+| ------------- | -------------            | -------  | -------   | ---------- |  ------------ |
+| H_01          | Testing Extract Year     |          |           |            |               |
+| H_02          | Testing the Winners count|          |           |            |               |
+| H_03          | ______________|          |          |           |            |               |
 
 
 
