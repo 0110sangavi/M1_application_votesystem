@@ -7,3 +7,6 @@
 
 ## CODACY BADGE
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8fae7ccffd0b44128e4a971a15e65f67)](https://www.codacy.com/gh/0110sangavi/M1_application_votesystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=0110sangavi/M1_application_votesystem&amp;utm_campaign=Badge_Grade)
+
+## CODIGA BADGE
+[![Codiga Badge](https://api.codiga.io/project/30027/score/svg)]
