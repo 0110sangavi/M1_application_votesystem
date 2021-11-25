@@ -25,4 +25,4 @@ These systems can speed up election results and lower the cost of conducting an 
 
 ## Manual
 
-<a href="https://0110sangavi>.github.io/<M1_application_votesystem/tree/main/3_Implementation>/Manual.html" title="Manual">Manual To Run The Project </a>
+Refer Implementation Folder For Manual
