@@ -10,3 +10,6 @@
 
 ## CODIGA BADGE
 [![Codiga Badge](https://api.codiga.io/project/30027/score/svg)]
+
+## Code BADGE
+[![Codiga Badge](https://api.codiga.io/project/30027/status/svg)]
